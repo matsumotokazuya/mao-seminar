@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
 真央教授
 エルマス
 わかば
+松元
 
 # ディレクトリ構成
 ```
